@@ -1,18 +1,3 @@
-Sales Analysis Dashboard
-
-<img width="689" height="288" alt="Sales Analysis Dashboard" src="https://github.com/user-attachments/assets/9cf08cd2-7eb9-4347-8f1f-7e19b2699de1" />
-
-
-Customer Analysis Dashboard
-
-<img width="604" height="298" alt="Customer Analysis Dashboard" src="https://github.com/user-attachments/assets/fa783cf5-1f6e-4c28-a18e-471496b375c8" />
-
-
-Product Analysis Dashboard  
-
-<img width="629" height="290" alt="Product Analysis Dashboard" src="https://github.com/user-attachments/assets/b0c368c8-4fc4-4416-90ff-fbcc9ab473b5" />
-
-
 Retail Sales Analysis & Interactive Excel Dashboard
 
 📌 Project Overview
@@ -569,51 +554,7 @@ Relationship between discounts, sales, and quantity.
 The exact insight selected for a presentation should be based on the
 current dashboard filters and PivotTable results.
 
-🎓 Skills Demonstrated
 
-This project demonstrates practical skills in:
-
-Excel & Data Analysis
-
-Data cleaning
-
-Data transformation
-
-Calculated columns
-
-KPI development
-
-PivotTable analysis
-
-PivotChart creation
-
-Dashboard development
-
-Slicer implementation
-
-Time-based analysis
-
-Customer segmentation
-
-Product analysis
-
-Sales analysis
-
-Business & Analytical Thinking
-
-Converting raw data into meaningful metrics
-
-Identifying business KPIs
-
-Comparing customer segments
-
-Comparing products and categories
-
-Understanding sales trends
-
-Presenting data visually
-
-Building interactive reports
 
 🚀 How to Use the Workbook
 
@@ -639,51 +580,22 @@ payment methods.
 Observe how the dashboard visuals and KPIs change according to the
 selected filters.
 
-🔮 Future Improvements
-
-The project can be extended by:
-
-Connecting Excel directly to a live database.
-
-Automating data refresh using Power Query.
-
-Adding more advanced customer segmentation.
-
-Calculating Customer Lifetime Value (CLV).
-
-Adding month-wise and day-wise trend analysis.
-
-Adding profit and cost metrics if cost data becomes available.
-
-Creating a Power BI version of the dashboard.
-
-Adding forecasting for future sales.
-
-Adding advanced statistical analysis.
-
-Automating the complete reporting process.
-
 📷 Dashboard Preview
 
-Add screenshots of the following dashboards to the GitHub README:
+1. Sales Dashboard
 
-1. Sales Analysis Dashboard
-2. Customer Analysis Dashboard
-3. Product Analysis Dashboard
+<img width="689" height="288" alt="Sales Analysis Dashboard" src="https://github.com/user-attachments/assets/c43344a8-aca7-4cf9-ac9e-3e4befe71618" />
 
-Recommended format:
 
-## Sales Dashboard
+2. Customer Dashboard
 
-![Sales Dashboard](images/sales-dashboard.png)
+<img width="604" height="298" alt="Customer Analysis Dashboard" src="https://github.com/user-attachments/assets/cee0f794-61b0-4e41-a0ba-6566c3097ca4" />
 
-## Customer Dashboard
 
-![Customer Dashboard](images/customer-dashboard.png)
+3.  Product Dashboard
 
-## Product Dashboard
+<img width="629" height="290" alt="Product Analysis Dashboard" src="https://github.com/user-attachments/assets/f95be3f6-1173-40aa-96f3-367142b295cf" />
 
-![Product Dashboard](images/product-dashboard.png)
 
 
 
@@ -693,22 +605,6 @@ Suraj Thange
 
 Bachelor of Engineering -- Computer Engineering
 Mumbai University
-
-Areas of Interest
-
-Data Analytics
-
-Data Science
-
-Business Intelligence
-
-Microsoft Excel
-
-Power BI
-
-SQL
-
-Python
 
 ⭐ Project Highlights
 
