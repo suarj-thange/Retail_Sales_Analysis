@@ -1,5 +1,22 @@
 Retail Sales Analysis & Interactive Excel Dashboard
 
+📷 Dashboard Preview
+
+1. Sales Dashboard
+
+<img width="689" height="288" alt="Sales Analysis Dashboard" src="https://github.com/user-attachments/assets/c43344a8-aca7-4cf9-ac9e-3e4befe71618" />
+
+
+2. Customer Dashboard
+
+<img width="604" height="298" alt="Customer Analysis Dashboard" src="https://github.com/user-attachments/assets/cee0f794-61b0-4e41-a0ba-6566c3097ca4" />
+
+
+3.  Product Dashboard
+
+<img width="629" height="290" alt="Product Analysis Dashboard" src="https://github.com/user-attachments/assets/f95be3f6-1173-40aa-96f3-367142b295cf" />
+
+
 📌 Project Overview
 
 This project is an end-to-end Retail Sales Analysis built entirely
@@ -579,25 +596,6 @@ payment methods.
 
 Observe how the dashboard visuals and KPIs change according to the
 selected filters.
-
-📷 Dashboard Preview
-
-1. Sales Dashboard
-
-<img width="689" height="288" alt="Sales Analysis Dashboard" src="https://github.com/user-attachments/assets/c43344a8-aca7-4cf9-ac9e-3e4befe71618" />
-
-
-2. Customer Dashboard
-
-<img width="604" height="298" alt="Customer Analysis Dashboard" src="https://github.com/user-attachments/assets/cee0f794-61b0-4e41-a0ba-6566c3097ca4" />
-
-
-3.  Product Dashboard
-
-<img width="629" height="290" alt="Product Analysis Dashboard" src="https://github.com/user-attachments/assets/f95be3f6-1173-40aa-96f3-367142b295cf" />
-
-
-
 
 👨‍💻 Author
 
